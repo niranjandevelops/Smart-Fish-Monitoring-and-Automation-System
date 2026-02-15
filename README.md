@@ -2,21 +2,15 @@ Aquariums and aquaculture systems require careful monitoring and maintenance to 
 
 The Smart Aquarium Monitoring & Automation System presented in this work addresses these challenges by integrating automation, IoT, and real-time visual monitoring. Built around the ESP32 microcontroller, the system enables wireless connectivity for remote control and data access through mobile applications. The setup incorporates a servo-based automatic feeder, sensors for pH, temperature, and water level, and a submersible pump for automated water exchange. Furthermore, the inclusion of an ESP32 camera module provides live video streaming, allowing users to monitor fish activity and tank conditions visually. By combining these features, the system minimizes manual effort, ensures consistent care, and promotes sustainable aquarium management practices.
 
+Features
 
+* Fully automated fish care system for feeding, water control, and monitoring
+* Reduces human effort through intelligent scheduling and automation
+* Smart screw feeding mechanism to prevent overfeeding and feed wastage
+* Ultrasonic sensor–based water level detection for safe automatic water exchange
+* Real-time IoT monitoring of pH, temperature, and water level via mobile app
+* Live visual surveillance using ESP32-CAM for tank activity monitoring
+* Remote control of feeding, pumping, and system functions from anywhere
+* Data-driven management using real-time sensor analytics
+* Eco-friendly operation with optimized water and energy usage 
 
-FEATURES :
-        Fully Automated Fish Care System
-        Reduces human effort with intelligent    feeding, water control, and monitoring
-        Smart Screw Feeding Mechanism
-        Precision-controlled feeding system prevents overfeeding and waste.
-        Intelligent Water Level Detection
-        Ultrasonic sensor ensures safe and automatic water exchange.
-        Real-Time IoT Monitoring
-        Live pH, temperature, and water-level data on mobile via Blynk IoT.
-        Live Visual Surveillance
-        ESP32-CAM provides real-time video streaming of fish tank activity.
-        Manage feeding, pumping, and monitoring from anywhere.
-        Data-Driven Aquarium Management
-        Enables informed decisions using real-time sensor analytics.
-        Eco-Friendly Operation
-        Optimized water usage and reduced energy consumption.
