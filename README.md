@@ -4,13 +4,16 @@ The Smart Aquarium Monitoring & Automation System presented in this work address
 
 Features
 
-* Fully automated fish care system for feeding, water control, and monitoring
-* Reduces human effort through intelligent scheduling and automation
-* Smart screw feeding mechanism to prevent overfeeding and feed wastage
-* Ultrasonic sensor–based water level detection for safe automatic water exchange
-* Real-time IoT monitoring of pH, temperature, and water level via mobile app
-* Live visual surveillance using ESP32-CAM for tank activity monitoring
-* Remote control of feeding, pumping, and system functions from anywhere
-* Data-driven management using real-time sensor analytics
-* Eco-friendly operation with optimized water and energy usage 
-
+*Intelligent alert system to notify users of abnormal pH, temperature, or water levels
+*Automated emergency shutdown to protect fish during critical system failures
+*Customizable feeding schedules based on fish species and growth stages
+*Integration with cloud platforms for secure data storage and remote access
+*Low-cost and scalable design suitable for home aquariums and fish farms
+*Energy-efficient components to minimize power consumption
+*Real-time notifications via mobile app for instant system updates
+*Backup power support to ensure uninterrupted operation during outages
+*Predictive maintenance using sensor data to avoid equipment failure
+*Water quality optimization through periodic automated filtration cycles
+*User-friendly interface for easy monitoring and control
+*Multi-tank support for managing multiple aquariums simultaneously
+*Secure communication protocols to protect IoT data from unauthorized access
